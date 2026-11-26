@@ -6,6 +6,8 @@ Generative Artificial Intelligence is a technology that creates original content
 
 Contributions to this list are welcome. Before submitting your suggestions, please review the [Contribution Guidelines](CONTRIBUTING.md) to ensure your entries meet the criteria. Add links through [pull requests](https://github.com/steven2358/awesome-generative-ai/pulls) or create an [issue](https://github.com/steven2358/awesome-generative-ai/issues) to start a discussion. More projects can be found in the [Discoveries List](DISCOVERIES.md), where we showcase a wide range of up-and-coming Generative AI projects.
 
+- [LibreAIDeck](https://libreaideck.com) - Directory of 51+ offline and open-source AI tools filtered by exact VRAM and system RAM requirements.
+
 ## Contents
 
 - [Recommended reading](#recommended-reading)
